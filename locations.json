@@ -1,0 +1,406 @@
+{
+  "custom_locations": {
+    "tatooine": {
+      "name": "Tatooine Boonta Eve Classic",
+      "role1": "Child",
+      "role2": "Hutt",
+      "role3": "Jawa",
+      "role4": "Tusken Raider",
+      "role5": "Experienced Pilot",
+      "role6": "Pit droid"
+    },
+    "gungan": {
+      "name": "Naboo Gungan Palace",
+      "role1": "Human Royalty",
+      "role2": "Boss",
+      "role3": "Negotiator",
+      "role4": "Gungan Warrior",
+      "role5": "Senate Representative",
+      "role6": "Child"
+    },
+    "dexdiner": {
+      "name": "Coruscant Dex's Diner",
+      "role1": "Informant",
+      "role2": "Serving Droid",
+      "role3": "Customer",
+      "role4": "Cook",
+      "role5": "Smuggler",
+      "role6": "Criminal"
+    },
+    "lakehouse": {
+      "name": "Naboo Lake House",
+      "role1": "Senator",
+      "role2": "Bodyguard",
+      "role3": "Protocol Droid",
+      "role4": "Astromech Droid",
+      "role5": "Handmaiden",
+      "role6": "Aristocrat"
+    },
+    "kamino": {
+      "name": "Kamino Cloning Facilities",
+      "role1": "Clone Trooper",
+      "role2": "Bounty Hunter",
+      "role3": "Jedi",
+      "role4": "Kaminoan Tech",
+      "role5": "Prime Minister",
+      "role6": "Child"
+    },
+    "geonosis": {
+      "name": "Geonosian Arena",
+      "role1": "Geonosian",
+      "role2": "Bounty Hunter",
+      "role3": "Count",
+      "role4": "Jedi",
+      "role5": "Nexu",
+      "role6": "Separatist Droid"
+    },
+    "umbara": {
+      "name": "Umbara Jungle",
+      "role1": "Clone Commander",
+      "role2": "Clone Trooper",
+      "role3": "Jedi General",
+      "role4": "Jedi Commander",
+      "role5": "Umbaran Militia",
+      "role6": "Umbaran Starfighter Pilot"
+    },
+    "jeditemple": {
+      "name": "Coruscant Jedi Temple",
+      "role1": "Jedi Master",
+      "role2": "Jedi Knight",
+      "role3": "Jedi Padawan",
+      "role4": "Librarian",
+      "role5": "Temple Worker",
+      "role6": "Suicide Bomber"
+    },
+    "dathomir": {
+      "name": "Dathomir Coven",
+      "role1": "Priestess",
+      "role2": "Arena Fighter",
+      "role3": "Assassin",
+      "role4": "Shaman",
+      "role5": "Healer",
+      "role6": "Zombie"
+    },
+    "mandalore": {
+      "name": "Mandalore Throne Room",
+      "role1": "Duchess",
+      "role2": "Jedi",
+      "role3": "Assassin",
+      "role4": "Minister",
+      "role5": "Death Watch",
+      "role6": "Clone Trooper"
+    },
+    "underlevels": {
+      "name": "Coruscant Underlevels",
+      "role1": "Mechanic",
+      "role2": "Death Stick Dealer",
+      "role3": "Clone Trooper",
+      "role4": "Exiled Jedi",
+      "role5": "Debt Collector",
+      "role6": "Demolition Droid"
+    },
+    "senate": {
+      "name": "Coruscant Senate Chamber",
+      "role1": "Protocol Droid",
+      "role2": "Senator",
+      "role3": "Chancellor",
+      "role4": "Advisor",
+      "role5": "Ambassador",
+      "role6": "Bodyguard"
+    },
+    "utapau": {
+      "name": "Utapau Separatist Headquarters",
+      "role1": "Viceroy",
+      "role2": "Droideka",
+      "role3": "Negotiator",
+      "role4": "Roger Droid",
+      "role5": "Clone Commander",
+      "role6": "Cyborg"
+    },
+    "kashyyk": {
+      "name": "Kashyyk Beach",
+      "role1": "Jedi Master",
+      "role2": "Droideka",
+      "role3": "Roger Droid",
+      "role4": "Wookie Crossbowman",
+      "role5": "Wookie Pilot",
+      "role6": "Clone Trooper"
+    },
+    "mustafar": {
+      "name": "Mustafar Mining Facility",
+      "role1": "Mining Droid",
+      "role2": "Sith Apprentice",
+      "role3": "Jedi Master",
+      "role4": "Separatist Leader",
+      "role5": "Medical Droid",
+      "role6": "Pregnant Woman"
+    },
+    "corellia": {
+      "name": "Corellia Underground",
+      "role1": "Emigration Officer",
+      "role2": "Hotshot Pilot",
+      "role3": "Scrumrat",
+      "role4": "Ringleader",
+      "role5": "Slave Dealer",
+      "role6": "Enforcer"
+    },
+    "kessel": {
+      "name": "Kessel Spice Mines",
+      "role1": "Slave Wookie",
+      "role2": "Pyke Syndic",
+      "role3": "Foreman",
+      "role4": "Prisoner",
+      "role5": "Spice Smuggler",
+      "role6": "Security Droid"
+    },
+    "crimson": {
+      "name": "Crimson Dawn Yacht",
+      "role1": "Syndicate Crime Lord",
+      "role2": "Lieutenant",
+      "role3": "Debt Collector",
+      "role4": "Coaxium Dealer",
+      "role5": "Smuggler",
+      "role6": "Warlord"
+    },
+    "jeddha": {
+      "name": "Jeddha Market",
+      "role1": "Guardian of the Whills",
+      "role2": "Stormtrooper",
+      "role3": "Guerilla Fighter",
+      "role4": "Merchant",
+      "role5": "Rebel Operative",
+      "role6": "Security Droid"
+    },
+    "eadu": {
+      "name": "Eadu Imperial Research Facility",
+      "role1": "Director",
+      "role2": "Pilot",
+      "role3": "Scientist",
+      "role4": "Tech Lead",
+      "role5": "Guard",
+      "role6": "Rebel Operative"
+    },
+    "scarif": {
+      "name": "Scarif Beach",
+      "role1": "Rebel Trooper",
+      "role2": "Pilot",
+      "role3": "Rebel Operative",
+      "role4": "Security Droid",
+      "role5": "Stormtrooper",
+      "role6": "Director"
+    },
+    "sandcrawler": {
+      "name": "Tatooine Sand Crawler",
+      "role1": "Jawa Pilot",
+      "role2": "Jawa Spearman",
+      "role3": "Bounty Hunter",
+      "role4": "Restrained Droid",
+      "role5": "Jawa Scavenger",
+      "role6": "Ugnaught"
+    },
+    "moseisley": {
+      "name": "Tatooine Mos Eisley",
+      "role1": "Jawa",
+      "role2": "Moisture Farmer",
+      "role3": "Stormtrooper",
+      "role4": "Retired Jedi",
+      "role5": "Bounty Hunter",
+      "role6": "Bartender"
+    },
+    "falcon": {
+      "name": "Millenium Falcon",
+      "role1": "Pilot",
+      "role2": "Smuggler",
+      "role3": "Astromech Droid",
+      "role4": "Protocol Droid",
+      "role5": "Passenger",
+      "role6": "Navigation Droid"
+    },
+    "deathstar": {
+      "name": "Death Star",
+      "role1": "Imperial Officer",
+      "role2": "Grand Moff",
+      "role3": "Sith Lord",
+      "role4": "Mouse Droid",
+      "role5": "Stormtrooper",
+      "role6": "Prisoner"
+    },
+    "yaviniv": {
+      "name": "Yavin IV Rebel base",
+      "role1": "Senator",
+      "role2": "X-wing Pilot",
+      "role3": "Astromech Droid",
+      "role4": "Admiral",
+      "role5": "Rebel Trooper",
+      "role6": "Slicer"
+    },
+    "hoth": {
+      "name": "Hoth Echo Base",
+      "role1": "Tauntaun",
+      "role2": "Landspeeder pilot",
+      "role3": "AT-AT Commander",
+      "role4": "Journalist",
+      "role5": "Wampa",
+      "role6": "Ion Cannoneer"
+    },
+    "isd": {
+      "name": "Imperial Star Destroyer",
+      "role1": "Admiral",
+      "role2": "Bridge Crew",
+      "role3": "Stormtrooper",
+      "role4": "Mouse Droid",
+      "role5": "Janitor",
+      "role6": "TIE Pilot"
+    },
+    "dagobah": {
+      "name": "Dagobah Swamp",
+      "role1": "Jedi Master",
+      "role2": "X-wing",
+      "role3": "Astromech Droid",
+      "role4": "Pilot",
+      "role5": "Force Ghost",
+      "role6": "Dragonsnake"
+    },
+    "bespin": {
+      "name": "Bespin Cloud City",
+      "role1": "Baron Administrator",
+      "role2": "Bounty Hunter",
+      "role3": "Stormtrooper",
+      "role4": "Sabacc Player",
+      "role5": "Tourist",
+      "role6": "Gas Prospector"
+    },
+    "jabbas": {
+      "name": "Tatooine Jabba's Palace",
+      "role1": "Hutt",
+      "role2": "Majordomo",
+      "role3": "Rancor",
+      "role4": "Bounty Hunter",
+      "role5": "Chained Dancer",
+      "role6": "Wall trophy"
+    },
+    "endor": {
+      "name": "Endor Ewok Encampment",
+      "role1": "Protocol Droid",
+      "role2": "Wookie",
+      "role3": "Storyteller",
+      "role4": "Cook",
+      "role5": "Rebel Trooper",
+      "role6": "Stormtrooper"
+    },
+    "nevarro": {
+      "name": "Nevarro Mandalorian Enclave",
+      "role1": "Armourer",
+      "role2": "Guild Agent",
+      "role3": "Bounty Hunter",
+      "role4": "Mercenary",
+      "role5": "Foundling",
+      "role6": "Scientist"
+    },
+    "jakku": {
+      "name": "Jakku Niima Outpost",
+      "role1": "Scavenger",
+      "role2": "Explorer",
+      "role3": "Astromech Droid",
+      "role4": "Renegade Stormtrooper",
+      "role5": "Supplies Dealer",
+      "role6": "Informant"
+    },
+    "takodana": {
+      "name": "Takodana Maz's Castle",
+      "role1": "Musician",
+      "role2": "Refugee",
+      "role3": "B-wing Pilot",
+      "role4": "Stormtrooper Captain",
+      "role5": "Serving Droid",
+      "role6": "Pirate"
+    },
+    "ilum": {
+      "name": "Ilum Starkiller Base",
+      "role1": "Stormtrooper Captain",
+      "role2": "Fallen Jedi",
+      "role3": "X-wing Pilot",
+      "role4": "Resistance General",
+      "role5": "Snowspeeder Pilot",
+      "role6": "Saboteur"
+    },
+    "ahch-to": {
+      "name": "Ahch-To Island Village",
+      "role1": "Fisherman",
+      "role2": "Force Ghost",
+      "role3": "Aspiring Jedi",
+      "role4": "Caretaker",
+      "role5": "Porg",
+      "role6": "Apex Predator"
+    },
+    "cantonica": {
+      "name": "Cantonica Casino",
+      "role1": "Slicer",
+      "role2": "Fathier Stablehand",
+      "role3": "Fathier Jockey",
+      "role4": "Sabacc Player",
+      "role5": "Arms Dealer",
+      "role6": "Gambling Addict"
+    },
+    "crait": {
+      "name": "Crait Salt Flats",
+      "role1": "Force Projection",
+      "role2": "Resistance General",
+      "role3": "Trooper",
+      "role4": "Fallen Jedi",
+      "role5": "AT-AT Commander",
+      "role6": "First Order Officer"
+    },
+    "exegol": {
+      "name": "Exegol Sith Temple",
+      "role1": "Sith Emperor",
+      "role2": "Jedi",
+      "role3": "Rebel Pilot",
+      "role4": "Ex-stormtrooper",
+      "role5": "Knight of Ren",
+      "role6": "Force Ghost"
+    }
+  },
+  "selected_locations": {
+    "tatooine": true,
+    "gungan": true,
+    "dexdiner": true,
+    "lakehouse": true,
+    "kamino": true,
+    "geonosis": true,
+    "umbara": true,
+    "jeditemple": true,
+    "dathomir": true,
+    "mandalore": true,
+    "underlevels": true,
+    "senate": true,
+    "utapau": true,
+    "kashyyk": true,
+    "mustafar": true,
+    "corellia": true,
+    "kessel": true,
+    "crimson": true,
+    "jeddha": true,
+    "eadu": true,
+    "scarif": true,
+    "sandcrawler": true,
+    "moseisley": true,
+    "falcon": true,
+    "deathstar": true,
+    "yaviniv": true,
+    "hoth": true,
+    "isd": true,
+    "dagobah": true,
+    "bespin": true,
+    "jabbas": true,
+    "endor": true,
+    "nevarro": true,
+    "jakku": true,
+    "takodana": true,
+    "ilum": true,
+    "ahch-to": true,
+    "cantonica": true,
+    "crait": true,
+    "exegol": true
+  }
+}
